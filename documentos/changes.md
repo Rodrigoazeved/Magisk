@@ -704,5 +704,4 @@
 - Removed Magisk Manager in Magisk patch, it is now included in Magisk phh's superuser only
 
 ### v1
-
 - Initial release
